@@ -3,7 +3,8 @@
 #include <stdio.h>
 /**
   * main - main block
-  * Description: A program that prints the alphabet in lowercase, and then in uppercase, followed by a new line
+  * Description: prints the alphabet in lowercase, 
+  * and then in uppercase, followed by a new line
   * Return: 0
   */
 int main(void)
