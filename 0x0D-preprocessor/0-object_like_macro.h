@@ -1,10 +1,6 @@
-es (4 sloc)  67 Bytes
-   
-#ifndef FILE_MACRO
-#define FILE_MACRO
+#ifndef _0_OBJECT_LIKE_MACRO_H_
+#define _0_OBJECT_LIKE_MACRO_H_
+
 #define SIZE 1024
 
-
-
-#endif
-
+#endif /* _0_OBJECT_LIKE_MACRO_H_ */
